@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success check out using valid credit card with Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1916199-c32b-4918-aff4-643fdec950b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check out using Bank transfer with Permata and cant go back when VA Permata appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b390851-4412-4ee2-b5ed-9876915e02ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check out using GOpay and cant go back when qris Gopay appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a34f3013-9eb3-4fdd-ac1d-ebe13d802cf4</testCaseGuid>
+</TestCaseEntity>

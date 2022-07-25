@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fail check out using denied credit card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ca124fa-6f86-43e7-9a06-3ce9b82d5063</testCaseGuid>
+</TestCaseEntity>

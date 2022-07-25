@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check out using Bank transfer with BNI and cant go back when VA BNI appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcc5d6fb-7fbf-41cc-b549-6edf677a06f1</testCaseGuid>
+</TestCaseEntity>

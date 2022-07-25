@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success check out using Bank transfer with BNI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63f0e705-0f50-4891-a235-25b96781c160</testCaseGuid>
+</TestCaseEntity>

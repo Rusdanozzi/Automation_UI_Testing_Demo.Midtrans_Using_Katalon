@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check out using Bank transfer with Mandiri and cant go back when VA Mandiri appear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5feb087-8641-44ad-92ff-2fefae8bcea2</testCaseGuid>
+</TestCaseEntity>

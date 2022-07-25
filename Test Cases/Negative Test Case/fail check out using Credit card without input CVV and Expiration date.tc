@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fail check out using Credit card without input CVV and Expiration date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4499579d-fa18-4a98-9e99-f38bb65f7fae</testCaseGuid>
+</TestCaseEntity>

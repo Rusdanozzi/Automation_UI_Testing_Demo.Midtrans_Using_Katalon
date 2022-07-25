@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check out using credit card then cancel payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89d1913c-5a0b-4eb3-b09f-171eaed79b47</testCaseGuid>
+</TestCaseEntity>

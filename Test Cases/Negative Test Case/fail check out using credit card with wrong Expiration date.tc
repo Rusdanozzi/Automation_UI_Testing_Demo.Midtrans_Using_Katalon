@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fail check out using credit card with wrong Expiration date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bca47635-b5ea-4072-a112-e1076f68bf4d</testCaseGuid>
+</TestCaseEntity>

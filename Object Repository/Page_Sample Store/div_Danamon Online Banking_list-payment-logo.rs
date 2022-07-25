@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Danamon Online Banking_list-payment-logo</name>
+   <tag></tag>
+   <elementGuidId>c99a507e-4af3-4ea5-803b-77dfd4779a42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/a[8]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb897f6a-7a5c-4011-b60f-77128669bd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-payment-logo</value>
+      <webElementGuid>198f8969-353b-4e9d-b5d1-21c6fe64a08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/a[@class=&quot;list&quot;]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-payment-logo&quot;]</value>
+      <webElementGuid>8bc9e5f3-6aa8-47ed-8041-2d0efea0b204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Sample Store/iframe_concat(id(, , snap-midtrans, , ))_po_714c8e</value>
+      <webElementGuid>6d9d5bb5-6880-4e17-8603-dca91bfe1dfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/a[8]/div/div[2]</value>
+      <webElementGuid>fcbbcdde-929b-4d93-98f3-0a63a5dc11d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danamon Online Banking'])[1]/following::div[1]</value>
+      <webElementGuid>bcc23884-3dec-40b2-9dd8-4f39579c9c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OCTO Clicks'])[1]/following::div[7]</value>
+      <webElementGuid>0ae372b7-5074-49a9-89d2-4835b496638e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRImo'])[1]/preceding::div[4]</value>
+      <webElementGuid>53dc88bf-b35c-4801-8f10-be352c190e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indomaret'])[1]/preceding::div[10]</value>
+      <webElementGuid>d8e1c72f-49de-4ef8-b3ca-6322ecc22492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]/div/div[2]</value>
+      <webElementGuid>817cbb01-d25f-4416-9d9d-e9aefab3da08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

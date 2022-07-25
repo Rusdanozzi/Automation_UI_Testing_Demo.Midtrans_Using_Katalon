@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fail check out using credit card with wrong CVV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f12734cf-6cd5-4d6f-a035-eca38860c0ed</testCaseGuid>
+</TestCaseEntity>
